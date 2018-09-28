@@ -9563,6 +9563,71 @@ https://pasta.lternet.edu/package/metadata/eml/knb-lter-fce/1107/3</odo:ECSO_010
     
 
 
+    <!-- http://purl.dataone.org/odo/ECSO_00001508 -->
+
+    <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00001508">
+        <rdfs:subClassOf rdf:resource="http://purl.dataone.org/odo/ECSO_00001500"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-1264-1166"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-28T16:59:03Z</dc:date>
+        <rdfs:label xml:lang="en">CDOM absorbance at wavelength 365 nm</rdfs:label>
+        <skos-owl1-dl:altLabel xml:lang="en">chromophoric dissolved organic matter absorbance at wavelength 365 nm</skos-owl1-dl:altLabel>
+        <skos-owl1-dl:altLabel xml:lang="en">colored dissolved organic matter absorbance at wavelength 365 nm</skos-owl1-dl:altLabel>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.dataone.org/odo/ECSO_00001509 -->
+
+    <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00001509">
+        <rdfs:subClassOf rdf:resource="http://purl.dataone.org/odo/ECSO_00001500"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-1264-1166"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-28T17:02:26Z</dc:date>
+        <rdfs:label xml:lang="en">CDOM absorbance at wavelength 375 nm</rdfs:label>
+        <skos-owl1-dl:altLabel xml:lang="en">chromophoric dissolved organic matter absorbance at wavelength 375 nm</skos-owl1-dl:altLabel>
+        <skos-owl1-dl:altLabel xml:lang="en">colored dissolved organic matter absorbance at wavelength 375 nm</skos-owl1-dl:altLabel>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.dataone.org/odo/ECSO_00001510 -->
+
+    <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00001510">
+        <rdfs:subClassOf rdf:resource="http://purl.dataone.org/odo/ECSO_00001500"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-1264-1166"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-28T17:14:07Z</dc:date>
+        <rdfs:label xml:lang="en">CDOM absorbance at wavelength 412 nm</rdfs:label>
+        <skos-owl1-dl:altLabel xml:lang="en">chromophoric dissolved organic matter absorbance at wavelength 412 nm</skos-owl1-dl:altLabel>
+        <skos-owl1-dl:altLabel xml:lang="en">colored dissolved organic matter absorbance at wavelength 412 nm</skos-owl1-dl:altLabel>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.dataone.org/odo/ECSO_00001511 -->
+
+    <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00001511">
+        <rdfs:subClassOf rdf:resource="http://purl.dataone.org/odo/ECSO_00001500"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-1264-1166"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-28T17:18:00Z</dc:date>
+        <rdfs:label xml:lang="en">CDOM absorbance at wavelength 440 nm</rdfs:label>
+        <skos-owl1-dl:altLabel xml:lang="en">chromophoric dissolved organic matter absorbance at wavelength 440 nm</skos-owl1-dl:altLabel>
+        <skos-owl1-dl:altLabel xml:lang="en">colored dissolved organic matter absorbance at wavelength 440 nm</skos-owl1-dl:altLabel>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.dataone.org/odo/ECSO_00001512 -->
+
+    <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00001512">
+        <rdfs:subClassOf rdf:resource="http://purl.dataone.org/odo/ECSO_00001500"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-1264-1166"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-28T17:19:33Z</dc:date>
+        <rdfs:label xml:lang="en">CDOM absorbance at wavelength 443 nm</rdfs:label>
+        <skos-owl1-dl:altLabel xml:lang="en">chromophoric dissolved organic matter absorbance at wavelength 443 nm</skos-owl1-dl:altLabel>
+        <skos-owl1-dl:altLabel xml:lang="en">colored dissolved organic matter absorbance at wavelength 443 nm</skos-owl1-dl:altLabel>
+    </owl:Class>
+    
+
+
     <!-- http://purl.dataone.org/odo/ECSO_00002776 -->
 
     <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00002776">
