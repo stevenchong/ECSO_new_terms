@@ -9628,6 +9628,94 @@ https://pasta.lternet.edu/package/metadata/eml/knb-lter-fce/1107/3</odo:ECSO_010
     
 
 
+    <!-- http://purl.dataone.org/odo/ECSO_00001513 -->
+
+    <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00001513">
+        <rdfs:subClassOf rdf:resource="http://purl.dataone.org/odo/ECSO_00001514"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-1264-1166"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-28T21:42:56Z</dc:date>
+        <rdfs:label xml:lang="en">radioactive carbon isotope ratio</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.dataone.org/odo/ECSO_00001514 -->
+
+    <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00001514">
+        <rdfs:subClassOf rdf:resource="http://purl.dataone.org/odo/ECSO_00001102"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-1264-1166"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-28T21:43:10Z</dc:date>
+        <rdfs:label xml:lang="en">carbon isotope ratio</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.dataone.org/odo/ECSO_00001515 -->
+
+    <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00001515">
+        <rdfs:subClassOf rdf:resource="http://purl.dataone.org/odo/ECSO_00001516"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-1264-1166"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-10-09T21:20:50Z</dc:date>
+        <rdfs:label xml:lang="en">dissolved organic carbon mineralization rate</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.dataone.org/odo/ECSO_00001516 -->
+
+    <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00001516">
+        <rdfs:subClassOf rdf:resource="http://purl.dataone.org/odo/ECSO_00000519"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-1264-1166"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-10-09T21:22:37Z</dc:date>
+        <rdfs:label xml:lang="en">mineralization rate</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.dataone.org/odo/ECSO_00001517 -->
+
+    <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00001517">
+        <rdfs:subClassOf rdf:resource="http://purl.dataone.org/odo/ECSO_00000632"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-1264-1166"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-10-09T21:34:34Z</dc:date>
+        <rdfs:label xml:lang="en">dissolved inorganic concentration of radioactive carbon</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.dataone.org/odo/ECSO_00001518 -->
+
+    <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00001518">
+        <rdfs:subClassOf rdf:resource="http://purl.dataone.org/odo/ECSO_00000632"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-1264-1166"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-10-09T21:36:19Z</dc:date>
+        <rdfs:label xml:lang="en">dissolved inorganic carbon concentration of stable carbon</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.dataone.org/odo/ECSO_00001519 -->
+
+    <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00001519">
+        <rdfs:subClassOf rdf:resource="http://purl.dataone.org/odo/ECSO_00001125"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-1264-1166"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-10-09T21:37:30Z</dc:date>
+        <rdfs:label xml:lang="en">dissolved organic carbon concentration of stable carbon</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.dataone.org/odo/ECSO_00001520 -->
+
+    <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00001520">
+        <rdfs:subClassOf rdf:resource="http://purl.dataone.org/odo/ECSO_00001125"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-1264-1166"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-10-09T21:38:15Z</dc:date>
+        <rdfs:label xml:lang="en">dissolved organic carbon concentration of radioactive carbon</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://purl.dataone.org/odo/ECSO_00002776 -->
 
     <owl:Class rdf:about="http://purl.dataone.org/odo/ECSO_00002776">
